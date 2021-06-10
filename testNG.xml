@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="eFiling_SanityTest"  >
+    <test name="eFiling_SanityTest" >
+        <classes>
+            <class name="com.stateofconnecticut.selenium.tests.SanityTest">
+            </class>
+        </classes>
+    </test>
+</suite>
