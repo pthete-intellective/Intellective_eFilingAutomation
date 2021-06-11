@@ -1,7 +1,6 @@
 package com.stateofconnecticut.selenium.Application.Modules;
 
 import com.aventstack.extentreports.Status;
-import com.stateofconnecticut.selenium.Application.Modules.BaseAction;
 import com.stateofconnecticut.selenium.config.Configuration;
 import com.stateofconnecticut.selenium.utilities.ConfigTestRunner;
 import com.stateofconnecticut.selenium.utilities.Constants;
